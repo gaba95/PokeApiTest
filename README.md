@@ -7,3 +7,7 @@ Pedir el nombre de un Pokémon al usuario.
 Consultar la API pública de PokéAPI.
 
 Mostrar en pantalla su nombre, peso, altura y tipos.
+
+💡 Más info de la API en https://pokeapi.co/
+
+gracias por la atención! ✨
