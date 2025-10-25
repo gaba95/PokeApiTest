@@ -1,0 +1,13 @@
+C:\Users\Administrador.LAPTOP-7M8U7RTU\source\repos\PokeApiTest\bin\Debug\netcoreapp3.1\PokeApiTest.exe
+C:\Users\Administrador.LAPTOP-7M8U7RTU\source\repos\PokeApiTest\bin\Debug\netcoreapp3.1\PokeApiTest.deps.json
+C:\Users\Administrador.LAPTOP-7M8U7RTU\source\repos\PokeApiTest\bin\Debug\netcoreapp3.1\PokeApiTest.runtimeconfig.json
+C:\Users\Administrador.LAPTOP-7M8U7RTU\source\repos\PokeApiTest\bin\Debug\netcoreapp3.1\PokeApiTest.runtimeconfig.dev.json
+C:\Users\Administrador.LAPTOP-7M8U7RTU\source\repos\PokeApiTest\bin\Debug\netcoreapp3.1\PokeApiTest.dll
+C:\Users\Administrador.LAPTOP-7M8U7RTU\source\repos\PokeApiTest\bin\Debug\netcoreapp3.1\PokeApiTest.pdb
+C:\Users\Administrador.LAPTOP-7M8U7RTU\source\repos\PokeApiTest\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Administrador.LAPTOP-7M8U7RTU\source\repos\PokeApiTest\obj\Debug\netcoreapp3.1\PokeApiTest.csprojAssemblyReference.cache
+C:\Users\Administrador.LAPTOP-7M8U7RTU\source\repos\PokeApiTest\obj\Debug\netcoreapp3.1\PokeApiTest.AssemblyInfoInputs.cache
+C:\Users\Administrador.LAPTOP-7M8U7RTU\source\repos\PokeApiTest\obj\Debug\netcoreapp3.1\PokeApiTest.AssemblyInfo.cs
+C:\Users\Administrador.LAPTOP-7M8U7RTU\source\repos\PokeApiTest\obj\Debug\netcoreapp3.1\PokeApiTest.csproj.CopyComplete
+C:\Users\Administrador.LAPTOP-7M8U7RTU\source\repos\PokeApiTest\obj\Debug\netcoreapp3.1\PokeApiTest.dll
+C:\Users\Administrador.LAPTOP-7M8U7RTU\source\repos\PokeApiTest\obj\Debug\netcoreapp3.1\PokeApiTest.pdb
